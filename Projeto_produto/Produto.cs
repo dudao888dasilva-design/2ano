@@ -13,7 +13,7 @@ namespace SENAI01
         public double preço;
         public int quantidade;
 
-//comentario aqui
+
         public double ValorTotalemEstoque()
         {
             return preço * quantidade;
