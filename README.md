@@ -1,7 +1,7 @@
-# 2ano
-curso senai 
+# 2º ano 
+Curso SENAI
 
-💻 Sou aluna do Colégio CEPI Osvaldo.
+💻 Sou aluna do Colégio CEPI Osvaldo da Costa Meireles.
   
 📚 Participo do curso de Desenvolvimento de Sistemas.
   
