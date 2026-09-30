@@ -1,7 +1,7 @@
 # 2º ano 
 Curso SENAI
 
-💻 Sou aluna do Colégio CEPI Osvaldo da Costa Meireles.
+💻Meu nome é Maria Eduarda da Silva Sou aluna do Colégio CEPI Osvaldo da Costa Meireles.
   
 📚 Participo do curso de Desenvolvimento de Sistemas.
   
