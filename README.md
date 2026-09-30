@@ -7,8 +7,6 @@ curso senai
   
 🌱 Atualmente estou aprendendo programação, banco de dados e criação de projetos.
   
-👩‍💻 Tenho interesse em desenvolver sites, aplicativos e aprender novas tecnologias.
-  
 🚀 Estou buscando melhorar minhas habilidades em programação e design.
   
 📫 Como entrar em contato comigo: dudao.888.dasilva@gmail.com 
